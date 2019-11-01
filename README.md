@@ -14,7 +14,9 @@ tempat saja
 menggunakan 64bit, unduh yang 64bit. Begitu juga kalau
 menggunakan 32bit.  
 * Selamat, Git sudah terinstal di Windows. Untuk mencobanya,
-silahkan buka CMD atau PowerShell, kemudian ketik perintah
+silahkan buka CMD atau PowerShell, kemudian ketik perintah ``git --version``
+![0](https://user-images.githubusercontent.com/57052780/68035879-276bab00-fcf7-11e9-8735-d897a7bf8b31.png)
+
 # Menambahkan Global Config
 * Pada saat pertama kali menggunakan git, perlu dilakukan konfigurasi
 user.name dan user.email
@@ -25,6 +27,8 @@ kegagalan saat menjalankan perintah git commit
 * Config Global Repository
 ``$ git config --global user.name “nama_user”``
 ``$ git config --global user.email “nama_user”``
+
+![1](https://user-images.githubusercontent.com/57052780/68035610-93014880-fcf6-11e9-94da-f35a6d1e7b37.png)
 # Perintah Dasar Git
 * git init, perintah untuk membuat repository local
 * git add, perintah untuk menambahkan file baru, atau perubahan pada file
@@ -50,6 +54,8 @@ directory)
 * direktory aktif menjadi: d:\labs_pemrograman1\latihan1
 ``$ mkdir latihan1``
 ``$ cd latihan1``
+![mkdir](https://user-images.githubusercontent.com/57052780/68036511-69492100-fcf8-11e9-986e-b61863352c04.png)
+
 # Membuat Reposiory Local
 * Jalankan perintah git init, untuk membuat repository local. 
 * Repository baru berhasil di inisialisasi, dengan terbentuknya satu
