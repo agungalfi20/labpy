@@ -101,7 +101,8 @@ File ``README.md`` berhasil dibuat.
 * Buka laman ``github.com``,arahkan pada repositori- nya.
 * Maka perubahan akan terlihat pada laman tersebut.
 
- ![6](https://user-images.githubusercontent.com/57052780/68079414-93473400-fe1b-11e9-927c-1536b9423eaf.png)
+ ![7](https://user-images.githubusercontent.com/57052780/68079430-e0c3a100-fe1b-11e9-8ce5-63d0a088bf68.png)
+
 
   
 **FINISH**............................
