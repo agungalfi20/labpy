@@ -17,8 +17,8 @@ menggunakan 32bit.
 		silahkan buka CMD atau PowerShell, kemudian ketik perintah
 		``git --version``
 		
- ![gitversion](https://user-images.githubusercontent.com/56913656/67958943-90d1b800-fc2a-11e9-97dc-9609400c9e97.png)
-		
+ ![0](https://user-images.githubusercontent.com/57052780/68079037-11eca300-fe15-11e9-8e78-4b1d3782192f.png)
+ 
 # Menambahkan Global Config
 * Pada saat pertama kali menggunakan git, perlu dilakukan konfigurasi
 *user.name dan user.email*
