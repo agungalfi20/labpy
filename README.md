@@ -28,7 +28,8 @@ repository.
 kegagalan saat menjalankan perintah ``git commit``
 * Config Global Repository
 		
-  ![gitconfig](https://user-images.githubusercontent.com/56913656/67959737-c3c87b80-fc2b-11e9-80b4-42c27fb6d5f8.png)
+  ![1](https://user-images.githubusercontent.com/57052780/68079121-d7840580-fe16-11e9-91df-1d48756222db.png)
+
 
 # Perintah Dasar Git
 * ``git init`` , perintah untuk membuat repository local.
