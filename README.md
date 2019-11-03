@@ -42,12 +42,12 @@ kegagalan saat menjalankan perintah ``git commit``
 # Membuat Reposiory Local
 * Buka direktory aktif, misal: ``d:\labs_pemrograman1`` (bukamenggunakan Windows Explorer)
 * klik kanan pada direktory aktif tersebut, dan pilih menu ``Git Bash``,sehingga muncul git bash commad
-* Buat direktory project praktikum pertama dengan nama **latihan1**
-		
-  ![reposiorylocal](https://user-images.githubusercontent.com/56913656/68035814-ff7c4780-fcf6-11e9-94d4-8b58dc0462bf.png)
-	 
+* Buat direktory project praktikum pertama dengan nama **latihan1**		 
 * Sehingga terbentuk satu direktori baru dibawahnya, selanjutnyamasuk kedalam direktori tersebut dengan perintah cd *(changedirectory)*
 * direktory aktif menjadi: ``d:\labs_pemrograman1\latihan1``
+
+  ![mkdir](https://user-images.githubusercontent.com/57052780/68079201-78bf8b80-fe18-11e9-8391-e2de3df313a5.png)
+
 # Membuat Reposiory Local
 * Jalankan perintah git init, untuk membuat repository local.
 * Repository baru berhasil di inisialisasi, dengan terbentuknya satudirektori hidden dengan nama **.git**
