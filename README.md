@@ -53,25 +53,28 @@ kegagalan saat menjalankan perintah ``git commit``
 * Repository baru berhasil di inisialisasi, dengan terbentuknya satudirektori hidden dengan nama **.git**
 * Pada direktori tersebut, semua perubahan pada *working directory* akan disimpan.
 		
-  ![gitinit](https://user-images.githubusercontent.com/56913656/68037108-9b0eb780-fcf9-11e9-9ec6-3b7deeaf4620.png)
+  ![git init](https://user-images.githubusercontent.com/57052780/68079229-377bab80-fe19-11e9-989b-4550e9522d64.png)
+
 		
 # Menambahkan File baru pada repository
 * Untuk membuat file dapat menggunakan text editor, lalu menyimpafilenya pada direktori aktif (repository)
 * disini kita akan coba buat satu file bernama README.md (text file) ``$ echo “#Latihan 1” >> README.md``
 		
-  ![echo](https://user-images.githubusercontent.com/56913656/68037392-343dce00-fcfa-11e9-9166-35c047989044.png)
+  ![2](https://user-images.githubusercontent.com/57052780/68079237-6abe3a80-fe19-11e9-8093-53278ef8f5ef.png)
+
 
 File ``README.md`` berhasil dibuat.
 # Menambahkan File baru pada repository
 * Untuk menambahkan file yang baru saja dibuat tersebut gunakanperintah ``git add.``
 * File README.md berhasil ditambahkan. ``$ git add README.md``
 
-  ![Untitled](https://user-images.githubusercontent.com/56913656/68065898-684cd980-fd62-11e9-8cd5-33a51a59cb41.png)
+  
+![4](https://user-images.githubusercontent.com/57052780/68079262-d1435880-fe19-11e9-9264-b3729bac9f80.png)
 
 # Commit (Menyimpan perubahan ke database)
 * Untuk menyimpan perubahan yang ada kedalam database repository local, gunakan perintah ``$ git commit -m “komentar commit”``
 
-  ![gitcommit](https://user-images.githubusercontent.com/56913656/68065934-d7c2c900-fd62-11e9-85f4-a4ca74a9975e.png)
+  ![3](https://user-images.githubusercontent.com/57052780/68079246-8fb2ad80-fe19-11e9-9c77-cf8e9983dcab.png)
   
 * Perubahan berhasil disimpan
 # Membuat repository server
@@ -79,25 +82,27 @@ File ``README.md`` berhasil dibuat.
 * Anda harus membuat akun terlebih dahulu.
 * Pada laman github, klik tombol start a project, atau Dari menu (icon +) klik New Repository
 
-  ![newrepository](https://user-images.githubusercontent.com/56913656/68065978-b3b3b780-fd63-11e9-84a2-499163a5b0c5.png)
+ ![5](https://user-images.githubusercontent.com/57052780/68079388-11efa180-fe1b-11e9-9bb6-a1679c6cd742.png)
   
 # Membuat repository server
 * Isi nama repositorynya, **misal: labpy1.**
 * lalu klik tombol **Create repository**
 
-  ![create repository](https://user-images.githubusercontent.com/56913656/68066006-fd9c9d80-fd63-11e9-9d19-94c0dca54b0e.png)
+  ![6](https://user-images.githubusercontent.com/57052780/68079395-377cab00-fe1b-11e9-85fc-a9df7a9723ff.png)
   
 # Menambahkan Remote Repository
 * Remote Repository merupakan repository server yang akan digunakan untuk menyimpan setiap perubahan pada local repository, sehingga dapat diakses oleh banyak user.
 * Untuk menambahkan remote repository server, gunakan perintah ``git remote add origin [url]``
 
-  ![git remote](https://user-images.githubusercontent.com/56913656/68066035-52401880-fd64-11e9-8167-11a8798e18b1.png)
+ ![Unteitled](https://user-images.githubusercontent.com/57052780/68079408-77dc2900-fe1b-11e9-9171-46d4c108165b.png)
+
   
 # Melihat hasilnya pada server repository
 * Buka laman ``github.com``,arahkan pada repositori- nya.
 * Maka perubahan akan terlihat pada laman tersebut.
 
-  ![hasilrepository](https://user-images.githubusercontent.com/56913656/68066201-7b61a880-fd66-11e9-903a-9de68232377f.png)
+ ![6](https://user-images.githubusercontent.com/57052780/68079414-93473400-fe1b-11e9-927c-1536b9423eaf.png)
+
   
 **FINISH**............................
 
